@@ -13,7 +13,7 @@ Here's an example how the data looks
 ![This is how it looks like](MNIST.jpg)
 
 ## Tools Used
-The coding was done with Python 3.6.6, and following libraries were used:
+The coding was done with <strong>_Python 3.6.6_</strong>, and following libraries were used:
 * [Torch](https://pypi.org/project/torch/)
 * [Torchvision](https://pypi.org/project/torchvision/0.1.8/)
 * [Numpy](https://pypi.org/project/numpy/)
